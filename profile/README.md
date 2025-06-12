@@ -4,7 +4,5 @@
 ### 📌 인원 소개
 ---
 ### 💻 Developer
-- 전민혁 [hyuli020](https://github.com/hyuli0520)
-
-### 📜 Document
-- 강선무
+- 전민혁 [hyuli0520](https://github.com/hyuli0520)
+- 박현민 [Sean-mn](https://github.com/Sean-mn)
